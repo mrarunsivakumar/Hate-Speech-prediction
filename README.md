@@ -11,10 +11,11 @@ patterns and trends over time, profile users prone to engaging in
 hate speech, analyze geographic distributions, evaluate model
 performance, and ultimately develop effective strategies to detect
 and mitigate hate speech online.
+
 Data Understanding:
 The dataset comprises the following features:
-Features:
 
+Features:
 File_id: Unique identifier for each file containing textual
 context.
 User_id: Identifier for the user posting the context.
