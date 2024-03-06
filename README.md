@@ -18,9 +18,13 @@ The dataset comprises the following features:
 Features:
 File_id: Unique identifier for each file containing textual
 context.
+
 User_id: Identifier for the user posting the context.
+
 Subforum_id: Identifier for the subforum where the context
 was posted.
+
 Num_contexts: Number of contexts associated with each file.
+
 Label: Label indicating whether the context contains
 hate speech or not.
